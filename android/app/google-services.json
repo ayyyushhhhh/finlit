@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "768641326836",
+    "project_id": "finlit-616d8",
+    "storage_bucket": "finlit-616d8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768641326836:android:56581d4e9f04c8cc4908a1",
+        "android_client_info": {
+          "package_name": "com.finlit.main"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768641326836-6t608lk9h8kbmp6h5vdon25in65n0obf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsEM4aa1FfZ4E0QdsbcXEC-Zx_P1_rcg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768641326836-6t608lk9h8kbmp6h5vdon25in65n0obf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "768641326836-jaqt2nbelepivle9jb8nf6b52rk0snio.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.finlit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
