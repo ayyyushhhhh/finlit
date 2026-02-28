@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 class AppConstants {
   // App Info
-  static const String appName = 'FinLit';
+  static const String appName = 'FinEd';
   static const String tagline = 'Master Your Money, Secure Your Future';
 
   // Colors
