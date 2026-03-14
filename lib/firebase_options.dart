@@ -47,12 +47,12 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCktPS4r-EKoVJAsRVLFc8l3OChZO3Xbz8',
-    appId: '1:768641326836:web:727d4461d754e5474908a1',
-    messagingSenderId: '768641326836',
-    projectId: 'finlit-616d8',
-    authDomain: 'finlit-616d8.firebaseapp.com',
-    storageBucket: 'finlit-616d8.firebasestorage.app',
+    apiKey: "AIzaSyCktPS4r-EKoVJAsRVLFc8l3OChZO3Xbz8",
+    authDomain: "finlit-616d8.firebaseapp.com",
+    projectId: "finlit-616d8",
+    storageBucket: "finlit-616d8.firebasestorage.app",
+    messagingSenderId: "768641326836",
+    appId: "1:768641326836:web:727d4461d754e5474908a1",
   );
 
   static const FirebaseOptions android = FirebaseOptions(
@@ -69,7 +69,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '768641326836',
     projectId: 'finlit-616d8',
     storageBucket: 'finlit-616d8.firebasestorage.app',
-    iosClientId: '768641326836-iiirjg5mo6ju8n81at5cq4s53aeq90fb.apps.googleusercontent.com',
+    iosClientId:
+        '768641326836-iiirjg5mo6ju8n81at5cq4s53aeq90fb.apps.googleusercontent.com',
     iosBundleId: 'com.finlit.main',
   );
 }

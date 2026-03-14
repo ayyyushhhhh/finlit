@@ -1,11 +1,11 @@
 {
-     "name": "FinEd",
+     "name": "FinEd - Money Made Simple",
      "short_name": "FinEd",
      "start_url": ".",
      "display": "standalone",
      "background_color": "#0175C2",
      "theme_color": "#0175C2",
-     "description": "A new Flutter project.",
+     "description": "Learn financial literacy, master budgeting, and build wealth with interactive lessons and tools.",
      "orientation": "portrait-primary",
      "prefer_related_applications": false,
      "icons": [
